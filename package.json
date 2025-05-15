@@ -2,7 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"version": "1.0.0",
 	"description": "Alton Clifford's attempt",
-	"keywords": [ "freecodecamp", "best program", "genious" ],
+	"keywords": [
+		"freecodecamp",
+		"best program",
+		"genious"
+	],
 	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
@@ -22,6 +26,3 @@
 		"express": "^4.21.2"
 	}
 }
-
-
-//http://localhost:3000//
